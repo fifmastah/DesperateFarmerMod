@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "fabricyes:ruby"
+    }
+  },
+  "result": {
+    "item": "fabricyes:ruby_block",
+    "count": 5
+  },
+  "group": "fabricyes"
+}
